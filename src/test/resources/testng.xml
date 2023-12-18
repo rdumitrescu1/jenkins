@@ -5,6 +5,7 @@
     <test name="Create Board Test">
         <classes>
             <class name="CreateBoard" />
+            <class name="GetBoard" />
         </classes>
     </test>
 </suite>
